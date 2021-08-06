@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lets-chat/static/css/main.ac9736dc.chunk.css",
+    "main.css": "/lets-chat/static/css/main.eae96ae0.chunk.css",
     "main.js": "/lets-chat/static/js/main.4ef9d75f.chunk.js",
     "main.js.map": "/lets-chat/static/js/main.4ef9d75f.chunk.js.map",
     "runtime-main.js": "/lets-chat/static/js/runtime-main.929ace21.js",
@@ -8,13 +8,13 @@
     "static/js/2.8623e9a3.chunk.js": "/lets-chat/static/js/2.8623e9a3.chunk.js",
     "static/js/2.8623e9a3.chunk.js.map": "/lets-chat/static/js/2.8623e9a3.chunk.js.map",
     "index.html": "/lets-chat/index.html",
-    "static/css/main.ac9736dc.chunk.css.map": "/lets-chat/static/css/main.ac9736dc.chunk.css.map",
+    "static/css/main.eae96ae0.chunk.css.map": "/lets-chat/static/css/main.eae96ae0.chunk.css.map",
     "static/js/2.8623e9a3.chunk.js.LICENSE.txt": "/lets-chat/static/js/2.8623e9a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.929ace21.js",
     "static/js/2.8623e9a3.chunk.js",
-    "static/css/main.ac9736dc.chunk.css",
+    "static/css/main.eae96ae0.chunk.css",
     "static/js/main.4ef9d75f.chunk.js"
   ]
 }
