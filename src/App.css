@@ -34,14 +34,28 @@ img {
     text-align: end;
     float: right;
   }
-  
-  .received {
-    border: 1px solid rgb(214, 214, 214);
-    background-color: #FAFAFA;
-    border-top-left-radius: 10000px;
+  .recived {
+    background-color: #eaffef;
+    color: rgb(10, 0, 97);
+    border-top-right-radius: 1000px;
+    flex-direction: row;
+    padding: 20px 20px 0 10px;
+    text-align: end;
     float: left;
   }
   
+  /* .received {
+    background-color: #596ece;
+    color: white;
+    border-top-right-radius: 1000px;
+    flex-direction: row-reverse;
+    padding: 20px 20px 0 10px;
+    text-align: end;
+    width: min-content;
+  
+    float: left;
+  }
+   */
   .sendMsg {
     position: fixed;
     display: flex;
